@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <style>.b{fill:none;stroke:#ffffff;stroke-width:2.5}</style>
+  <rect fill="#0356ff" width="32" height="32" x="0" y="0" />
+  <path class="b" d="m 21,8 4,0 0,11 -4,0"/>
+  <path class="b" d="m 20,25 -4,0 0,-12 -4,0" />
+  <path class="b" d="m 11,8 -4,0 0,11 4,0"/>
+</svg>
